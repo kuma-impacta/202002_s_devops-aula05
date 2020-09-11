@@ -1,1 +1,2 @@
-Primeiro commmit via comando
+Primeiro commmit via comando  
+Amigo fiz uma modificação para você!  
